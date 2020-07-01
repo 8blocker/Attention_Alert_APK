@@ -3,8 +3,8 @@ from kivy.uix.floatlayout import FloatLayout
 from kivy.core.window import Window
 import tweepy
 
-key = "1250112852452671490-Y9AgYYo8Kcwq9aGnGF9UVj0niEYf9G"
-secret = "KE5bIOUC7qOsOocwe8VOBrZ4gMy7dccPXe1mPFBuq3KSm"
+key = "1250112852452671490-DlftCJgenqFC4GeoCiVvC0sNlFRx3v"
+secret = "ehCkeI9FgpCZgO09h1pWzxCkhulXkrZXS7GSEO7F2ibIx"
 consumer_key = "wiF2RewCTvtJGFB9pFEUnC6uF"
 consumer_secret = "qquz5Vw1NMNmoqjzBZDjnnh1qj8e60nvKnSxUoh1mMvgZYK1rF"
 
